@@ -6,7 +6,7 @@
     <script src="https://kit.fontawesome.com/64c75e6021.js" crossorigin="anonymous"></script>
 </head>
 <body>
-        <h2>WHATS UP</h2> <img src="img/hamster.png"> 
+        <h2>WHATS UP</h2> 
         <br>
         <p> i wanted to let you know that i love u alot, and im practicing writing my code </p>
 
@@ -25,7 +25,7 @@
 
         <li> no one</li>
 
-        <li><a href="https://drive.google.com/file/d/1ju0dgNwgWGlBmxBqzA8mmuoky7L6PZbB/view" alt= "hamster">titties</li></a>
+        <li>titties</li> <img src="iMG_0294.PNG"> 
 
         <li><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tom_Cruise_by_Gage_Skidmore_2.jpg/440px-Tom_Cruise_by_Gage_Skidmore_2.jpg" alt="tom cruise">tom cruise</li> </a>
        </ol>
