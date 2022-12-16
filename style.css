@@ -1,0 +1,126 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts/fun.otf);
+
+  font-family: headingfont;
+  src: url(fonts/Paradise.otf);
+
+
+}
+
+   h2{
+             color: pink;
+             font-family: Arial;
+             font-variant:small-caps;
+             text-align: center;
+             line-height: 100%;
+
+         }
+
+#one{
+             color: #80e01c;
+             font-variant: small-caps;
+             font-size: 25px ;
+         }
+
+
+ #two{			
+ 			font-family: myFirstFont;
+ 			
+ 			font-size:50px;
+
+
+ 			color: rgba(24, 144, 242, 0.71);
+
+		 }
+
+ summary{		
+
+ 				font-style:italic;
+
+
+ 		}
+
+
+
+ 		#three {
+
+ 				font-style: italic;
+ 				font-weight: bold;
+ 				font-size: 20px;
+
+ 		}
+
+details summary { 
+  cursor: pointer;
+}
+
+details summary > * {
+  display: inline;
+}
+
+
+
+
+		
+
+
+
+
+	
+.mainnav a:hover {
+ 								 background-color: #ddd;
+  								color: yellow;
+   				 
+   				}
+
+.mainnav a.active {
+
+
+						
+ 							 color: #b32dd7;
+}
+
+
+
+.mainnav {
+
+
+
+
+
+
+	text-align: center;
+	font-family: headingfont;
+		
+}
+
+
+.extranav {
+
+			font-size: 20px;
+			margin: 10px;
+			text-align: center;
+			
+
+
+
+
+
+
+}
+
+.homenav {
+
+				font-size: 30px;
+				display: block;		
+				
+				
+
+				height: 30px;
+
+
+
+}
+
+
