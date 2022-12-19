@@ -166,7 +166,9 @@ details summary > * {
 .topimg {
 
 			text-align: center;
-			padding-bottom: 25px;
+			padding-top: 3vw;
+			padding-bottom: 2vw;
+			height: 40vw;
 
 
 }
@@ -175,9 +177,11 @@ details summary > * {
 
  display: inline-block;
  width: 40%;
- margin: 1px;
- height:300px;
- object-fit: contain;
+ padding: 1vw;
+ height: 39vw;
+
+
+
  
 
 
