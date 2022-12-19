@@ -8,6 +8,15 @@
 
 }
 
+
+body {
+
+margin: 30px;
+
+
+}
+
+
    h2{
              color: pink;
              font-family: Arial;
@@ -21,6 +30,7 @@
              color: #80e01c;
              font-variant: small-caps;
              font-size: 25px ;
+             border:groove 1px #b32dd7;
          }
 
 
@@ -92,15 +102,19 @@ details summary > * {
 
 	text-align: center;
 	font-family: headingfont;
+	font-size: 3vw;
+
 		
 }
 
 
 .extranav {
 
-			font-size: 20px;
+			
 			margin: 10px;
 			text-align: center;
+
+
 			
 
 
@@ -112,12 +126,60 @@ details summary > * {
 
 .homenav {
 
-				font-size: 30px;
+				
 				display: block;		
-				
-				
+				padding-bottom: 1vw;
 
 				height: 30px;
+
+
+
+}
+
+.firstnav{
+
+	border:groove 1px #b32dd7;
+	padding: 5px 10px;
+	margin: 1vw;
+
+
+
+	}
+
+
+.secondnav{
+
+	border:groove 1px #b32dd7;
+	padding: 5px 10px;
+	margin: 1vw;
+}
+
+
+
+.thirdnav{
+
+	border:groove 1px #b32dd7;
+	padding: 5px 10px;
+	margin: 1vw;
+}
+
+.topimg {
+
+			text-align: center;
+			padding-bottom: 25px;
+
+
+}
+
+.tophamster {
+
+ display: inline-block;
+ width: 47%;
+ margin: 10px;
+ height:500px;
+ object-fit: contain;
+
+ 
 
 
 
